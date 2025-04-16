@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ocep's Cyberpunk Space</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Ocep</h1>
+      <p class="tagline">Jazz, Lens, and Dreams of the World</p>
+    </header>
+
+    <section class="about">
+      <h2>Tentang Gue</h2>
+      <p>Gue Ocep, 20 tahun, tinggi 183cm, dari Indonesia. Gue cinta musik jazz — salah satu lagu favorit gue itu <em>Strangers in the Night</em> dari Frank Sinatra.</p>
+      <p>Selain itu, gue suka banget sama fotografi, sinematografi, dan ngedit video biar kesannya kalem dan menarik. Gue juga bisa bahasa Jepang dan lagi belajar bahasa Inggris karena gue punya mimpi buat jadi pengelana dunia.</p>
+    </section>
+
+    <section class="skills">
+      <h2>Skill & Minat</h2>
+      <ul>
+        <li>Fotografi & Sinematografi</li>
+        <li>Editing Video</li>
+        <li>Bahasa Jepang</li>
+        <li>Belajar Bahasa Inggris</li>
+        <li>Jazz Enthusiast</li>
+      </ul>
+    </section>
+
+    <footer>
+      <p>© 2025 Ocep. Dreaming in Neon.</p>
+    </footer>
+  </div>
+</body>
+</html>
